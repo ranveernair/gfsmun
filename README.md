@@ -1,5 +1,5 @@
 The GFSMUN Website.
-ALL RIGHTS RESERVED - GFSMUN 2027 COPYRIGHT 
+ALL RIGHTS RESERVED - GFSMUN 2026 COPYRIGHT 
 Copyright (c) 2026 GFSMUN. All rights reserved.
 
 This software and its associated documentation files (the "Software") are the 
